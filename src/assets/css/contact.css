@@ -1,0 +1,15 @@
+#design:checked + label div {
+    display: block;
+}
+
+#development:checked + label div {
+    display: block;
+}
+
+#support:checked + label div {
+    display: block;
+}
+
+#other:checked + label div {
+    display: block;
+}

@@ -1,0 +1,7 @@
+.skill-icon svg {
+    width: 50px;
+    fill: white;
+    background-color: black;
+    border-radius: 999px;
+    padding: 10px;
+}
